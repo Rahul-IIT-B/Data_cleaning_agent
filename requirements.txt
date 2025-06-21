@@ -1,0 +1,7 @@
+click
+pandas
+streamlit
+protobuf
+python-dotenv
+rapidfuzz
+google-generativeai

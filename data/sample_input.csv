@@ -1,0 +1,37 @@
+first_name,last_name,full_name,email,phone,address,city,state,country,gender,age,signup_date,last_purchase,loyalty_points,occupation,marital_status
+John,Doe,John Doe,john.doe@gmail.com,0055-5123,123 Elm St,Springfield,IL,Unted Stats,Male,31,15-01-2021,01-12-2023,1200,Engineer,Single
+Charlotte,Jackson,Charlotte Jackson,charlotte.jackson@example.com,0555-9998,147 Cypress St,Bludhaven,WA,Inda,Female,45,01-01-2015,,800,Teacher,Single
+Bob,Lee,Bob lee,bob.lee,0555-0000,789 Pine Rd,Metropolis,WA,Frnce,Male,35,01-01-2018,20-11-2023,900,Artist,Single
+Elijah,White,Elijah White,elijah.whitecom,0,852 Poplar,National City,NY,Austraila,Female,45,25-07-2019,25-07-2021,1100,Scientist,Married
+Matthew,Baker,Matthew Baker,matthew,0555-8885,852 Poplar,Bludhaven,WA,Unid Kngdom,Female,25,01-01-2004,31-12-2004,1900,Teacher,
+Chris,Evans,Chris Evans,chris.evans@example.com,0555-5555,753 Aspen,Gotham,NJ,Frace,Male,45,08-08-2018,08-08-2020,700,Engineer,Single
+Priya,Sharma,Priya Sharma,priya.sharma@example.com,0555-1718,328 Pine Ln,,TX,Ind,Female,31,01-01-2018,25-01-2024,,Teacher,Married
+Emily,Clark,Emily Clark,emily.clark@example.com,0555-2323,503 Maple Rd,Gateway City,CA,Unted Stats,Female,45,01-01-2023,18-02-2024,550,Engineer,Married
+Chloe,Turner,Chloe Turner,,0555-1118,258 Palm Dr,National City,NJ,Inida,Female,25,31-12-1995,31-12-1997,2600,Artist,Single
+,Smith,Ava Smith,ava.smith@example.com,0555-1018,123 Elm St,Los ,CA,Cnada,Other,45,01-01-2025,01-06-2025,900,Engineer,Single
+Ethan,Lee,Etha lee,ethan.lee@example.com,0555-8888,753 Aspen,Metropolis,,Unted Stats,Male,120,01-01-2024,01-01-2001,9999,Engineer,Married
+Olivia,Garcia,Olivia Garcia,olivia.garcia@example.,0555-7777,613 Elm St,San,TX,,Female,25,,31-12-2023,900,Artist,Divorced
+Mason,Martinez,Mason Martinez,mason.martinez@example.com,0555-4670,987 Birch,River,WA,Austrailia,,45,14-10-2020,31-12-2022,100,Scientist,Married
+Sophia,Taylor,Sophia Taylor,sophia.taylor@example.com,0555-5555,,Miami,FL,Austraila,Other,,01-01-2021,01-01-2023,200,Musician,Single
+Isabella,Anderson,Isabella Anderson,isabella.anderson@example,0555-3333,815 Main St,Gotham,NJ,Soth Korea,na,65,01-01-2019,06-12-,0,Actor,Divorced
+Noah,Thomas,Noah Thomas,noah.thomas@example.com,0555-2222,852 Poplar,Bludhaven,FL,Unted St,Male,75,01-01-2018,31-12-2018,500,Engineer,Widowed
+Mia,Taylor,Mia Taylor,mia.taylor@example.com,551,986 Maple Rd,Los Angeles,CA,uni,Female,,22-11-2016,31-12-2017,600,Teacher,Single
+Benjamin,Martin,Benjamin Martin,benjamin.martin@example.com,0555-3375,300 Main St,Opal City,FL, au,Male,-9,06-07-1905,31-12-2014,900,Artist,Widowed
+Amelia,Smith,,amelia.smith@example.com,0555-7776,369 Magnolia Ave,,NJ,Cnada,Female,45,01-01-2013,01-01-2015,1000,Designer,Single
+Harper,,Harper Harris,harper.harris@example.com,0555-5554,123 Elm St,Houston,TX,Frnce,Other,25,20-04-1900,31-12-2011,1200,Engineer,Divorced
+,Clark,James Clark,james.clark@,0555-4443,986 Maple Rd,Central City,CA,Soth Korea,not tell,15,0-2010,01-01-2001,1300,Teacher,Widowed
+Scarlett,Young,Scarlett Young,scarlett.young@example.com,0555-3332,789 Pine Rd,Seattle,WA,,Female,45,01-01-2009,\,1400,Artist,Single
+Alexander,King,Alexander King,,-9,587 Main St,Riverside,,Unted Stats,Male,55,01-01-2007,31-12-2008,-90,Scientist,Married
+Abigail,,Abigail Wright,abigail.wright@example.com,0555-3972,246 Spruce,Star City,NJ,Cina,Male,45,01-01-2007,31-12-2007,1600,Chef,Divorced
+Daniel,Scott,Daniel Scott,daniel.scott@.com,0555-0009,,Coast City,NY,Austraila,Other,25,01-01-2006,31-12-2006,1700,Artist,Married
+Ella,Green,Ella Green,ella.green@example.com,0555-9996,504 Elm St,Gotham,TX,Untedst,Female,85,25-09-,31-12-2005,1800,Actor,Single
+Scarlett,Adams,Scarlett Adams,scarlett.adams@example.com,055-774,654 Cedar St,Mia,FL,Austarl,,105,01-01-2003,01-01-2005,2000,,Divorced
+David,Nelson,,david.nelson@example.com,0555-6663,369 Redwood Ave,Coast City,NJ,Frnce,Male,15,01-01-2002,31-12-2002,2100,Designer,Widowed
+Joseph,Mitchell,Joseph Mitchell,example.com,0555-4441,258 Palm Dr,Los Ange,CA,Unted Stats,Male,15,01-01-2000,31-12-2000,2300,Engineer,Single
+Grace,Perez,Grace Perez,grace.perezexample.com,,369 Magnolia Ave,St City,WA,Caa,Other,25,01-01-1999,01-01-2001,2400,Designer,Divorced
+Samuel,Roberts,Samuel Roberts,samuel.roberts@example.com,0555-2229,409 Oak Ave,Riverside,FL,Cina,Male,35,01-01-1998,31-12-1998,2500,Scientist,Widowed
+Chloe,Turner,Chloe Turner,chloe.turner@example.com,0555-1118,817 Cedar Dr,National City,NJ,Inda,Female,45,31-12-1995,31-12-1997,2600,Engineer,Single
+Emily,Clark,Emily Clark,emily.clark@example.com,0555-2323,503 Maple Rd,Gateway City,CA,Unted Stats,Female,45,01-01-2023,18-02-2024,550,Engineer,Married
+Scarlett,Young,Scarlett Young,scarlett.young@example.com,0555-3332,789 Pine Rd,Seattle,WA,Austraila,Female,45,01-01-2009,01-01-2011,1400,Artist,Single
+Mason,Martinez,Mason Martinez,mason.martinez@example.com,0555-4670,987 Birch,Riverside,WA,Austraila,Female,45,14-10-2020,31-12-2022,100,Scientist,Married
+Joseph,Scott,Joseph Mitchell,example.com,0555-4441,258 Palm Dr,Los Angeles,CA,Unted Stats,Male,15,01-01-2000,31-12-2000,2300,Engineer,Single
